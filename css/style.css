@@ -90,7 +90,11 @@ img:not(.nav-logo) {
     width: 100%;
     display: block;
 }
+img:(.nav-logo) {
+    width: 100%;
+}
 
+}
 img {
     display: block;
 }
